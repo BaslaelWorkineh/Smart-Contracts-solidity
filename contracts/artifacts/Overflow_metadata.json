@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Overflow.sol": "Overflow"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Overflow.sol": {
+			"keccak256": "0xe5c45a76812ef8df9e5be1ec9994dbeaef03be48c33b5ff6aa8e6a3560ddffcd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://655001125005ad8810e5d06219e2015fe8cdd501043816873d353a8d83498eb5",
+				"dweb:/ipfs/QmUMU6sXWhxdqJTiXfHun4sarWfSjS8YKED7MFx2iugb1M"
+			]
+		}
+	},
+	"version": 1
+}
